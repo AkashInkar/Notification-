@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345661419856",
+    "firebase_url": "https://myapplication-780f0.firebaseio.com",
+    "project_id": "myapplication-780f0",
+    "storage_bucket": "myapplication-780f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345661419856:android:8d52d95a66928939",
+        "android_client_info": {
+          "package_name": "com.example.felixits.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345661419856-qiveiu118bcik7jqfle8krfvjmi9r278.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.felixits.myapplication",
+            "certificate_hash": "672440019ea1ed3eeb2639d7c3da7d862698791c"
+          }
+        },
+        {
+          "client_id": "345661419856-qrtbk7pe4tt2a0ckkos5pbp582n989ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvI_Wj23dKziZY15lYH3EpW6lbtOytAko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345661419856-qrtbk7pe4tt2a0ckkos5pbp582n989ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
